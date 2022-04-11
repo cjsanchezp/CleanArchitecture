@@ -76,3 +76,11 @@ C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Humanizer.dll
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\refint\CleanArchitecture.API.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.API\bin\Debug\net6.0\CleanArchitecture.Identity.pdb
