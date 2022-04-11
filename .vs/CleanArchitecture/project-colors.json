@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3839289-c1e6-499c-a24c-7318750032f5": {
+      "ProjectGuid": "e3839289-c1e6-499c-a24c-7318750032f5",
+      "DisplayName": "CleanArchitecture.ConsoleApp",
+      "ColorIndex": 0
+    },
+    "461420fd-459f-415d-be03-41757d152d92": {
+      "ProjectGuid": "461420fd-459f-415d-be03-41757d152d92",
+      "DisplayName": "CleanArchitecture.Infrastructure",
+      "ColorIndex": 1
+    },
+    "0431ebc1-f4ed-4ed8-9edd-361a5db3f459": {
+      "ProjectGuid": "0431ebc1-f4ed-4ed8-9edd-361a5db3f459",
+      "DisplayName": "CleanArchitecture.Domain",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "ebd24b17-c8ce-4a86-ae32-47df709a686a": {
+      "ProjectGuid": "ebd24b17-c8ce-4a86-ae32-47df709a686a",
+      "DisplayName": "CleanArchitecture.Application",
+      "ColorIndex": 3
+    },
+    "00473395-1f67-4657-a9ae-efe562db54b7": {
+      "ProjectGuid": "00473395-1f67-4657-a9ae-efe562db54b7",
+      "DisplayName": "CleanArchitecture.API",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
