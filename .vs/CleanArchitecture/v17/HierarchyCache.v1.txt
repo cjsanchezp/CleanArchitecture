@@ -1,0 +1,347 @@
+﻿++Solución "CleanArchitecture" ‎(5 de 5 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:CleanArchitecture.sln
+++doc
+i:{00000000-0000-0000-0000-000000000000}:doc
+++test
+i:{00000000-0000-0000-0000-000000000000}:test
+++src
+i:{00000000-0000-0000-0000-000000000000}:src
+++Infrastructure
+i:{bf948e2e-8806-41b7-a043-f631e6b2a751}:Infrastructure
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\infrastructure\
+++CleanArchitecture.Infrastructure
+i:{2e592913-7998-4354-850b-c920a0ccb08e}:CleanArchitecture.Infrastructure
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\bin\debug\net6.0\cleanarchitecture.infrastructure.dll
+++Dependencias
+i:{461420fd-459f-415d-be03-41757d152d92}:>611
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>613
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:>744
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:>612
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>614
+++Email
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\email\
+++Migrations
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\migrations\
+++Persistence
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\persistence\
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\persistence\
+++Repositories
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\repositories\
+++InfrastructureServiceRegistrato.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\infrastructureserviceregistrato.cs
+++Analizadores
+i:{461420fd-459f-415d-be03-41757d152d92}:analizadores
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:analizadores
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:analizadores
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:analizadores
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:analizadores
+++Marcos de trabajo
+i:{461420fd-459f-415d-be03-41757d152d92}:marcos de trabajo
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:marcos de trabajo
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:marcos de trabajo
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:marcos de trabajo
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:marcos de trabajo
+++Paquetes
+i:{461420fd-459f-415d-be03-41757d152d92}:paquetes
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:paquetes
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:paquetes
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:paquetes
+++Proyectos
+i:{461420fd-459f-415d-be03-41757d152d92}:proyectos
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:proyectos
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:proyectos
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:proyectos
+++EmailService.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\email\emailservice.cs
+++20220305103003_MigracionInicial.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220305103003_migracioninicial.cs
+++20220308133935_agregar-tablas-entidades-relaciones.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220308133935_agregar-tablas-entidades-relaciones.cs
+++20220315174046_CleanArchitectureVaxi.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220315174046_cleanarchitecturevaxi.cs
+++StreamerDbContextModelSnapshot.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\streamerdbcontextmodelsnapshot.cs
+++StreamerDbContext.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\persistence\streamerdbcontext.cs
+++StreamerDbContextSeed.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\persistence\streamerdbcontextseed.cs
+++RepositoryBase.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\repositories\repositorybase.cs
+++StreamerRepository.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\repositories\streamerrepository.cs
+++VideoRepository.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\repositories\videorepository.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\users\csanc\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\users\csanc\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\users\csanc\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\users\csanc\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\users\csanc\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.1\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\microsoft.netcore.app
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\microsoft.netcore.app
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\microsoft.netcore.app
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\microsoft.netcore.app
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{461420fd-459f-415d-be03-41757d152d92}:>753
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{461420fd-459f-415d-be03-41757d152d92}:>755
+++SendGrid (9.26.0)
+i:{461420fd-459f-415d-be03-41757d152d92}:>754
+++CleanArchitecture.Application
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\cleanarchitecture.application.csproj
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\cleanarchitecture.application.csproj
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\bin\debug\net6.0\cleanarchitecture.application.dll
+i:{24a4ef42-04f4-4213-8c58-2156894098ff}:CleanArchitecture.Application
+++20220305103003_MigracionInicial.Designer.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220305103003_migracioninicial.designer.cs
+++20220308133935_agregar-tablas-entidades-relaciones.Designer.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220308133935_agregar-tablas-entidades-relaciones.designer.cs
+++20220315174046_CleanArchitectureVaxi.Designer.cs
+i:{461420fd-459f-415d-be03-41757d152d92}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.data\migrations\20220315174046_cleanarchitecturevaxi.designer.cs
+++CleanArchitecture.Identity
+i:{2e592913-7998-4354-850b-c920a0ccb08e}:CleanArchitecture.Identity
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\cleanarchitecture.identity.csproj
+++Configurations
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\configurations\
+++RoleConfiguration.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\configurations\roleconfiguration.cs
+++UserConfiguration.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\configurations\userconfiguration.cs
+++UserRoleConfiguration.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\configurations\userroleconfiguration.cs
+++Models
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\models\
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\
+++ApplicationUser.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\models\applicationuser.cs
+++Services
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\services\
+++AuthService.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\services\authservice.cs
+++CleanArchitectureIdentityDbContext.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\cleanarchitectureidentitydbcontext.cs
+++IdentityServiceRegistration.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\identityserviceregistration.cs
+++Microsoft.AspNetCore.App.Analyzers
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.3)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>782
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>776
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.3)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>780
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>770
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>783
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:>823
+++Microsoft.Extensions.Options.ConfigurationExtensions (6.0.0)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>778
+++Newtonsoft.Json (13.0.1)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>774
+++System.IdentityModel.Tokens.Jwt (6.17.0)
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:>772
+++API
+i:{bf948e2e-8806-41b7-a043-f631e6b2a751}:API
+++CleanArchitecture.API
+i:{19fd6872-5e9e-478f-85c2-4dc58b086689}:CleanArchitecture.API
+++Connected Services 
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:>745
+++Properties
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\properties\
+++Controllers
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\controllers\
+++appsettings.json
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\appsettings.json
+++Program.cs
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\program.cs
+++WeatherForecast.cs
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\weatherforecast.cs
+++No se detectaron dependencias de servicio
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:>746
+++launchSettings.json
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\properties\launchsettings.json
+++StreamerController.cs
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\controllers\streamercontroller.cs
+++VideoController.cs
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\controllers\videocontroller.cs
+++appsettings.Development.json
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\microsoft.aspnetcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:>822
+++Core
+i:{bf948e2e-8806-41b7-a043-f631e6b2a751}:Core
+++CleanArchitecture.Domain
+i:{24a4ef42-04f4-4213-8c58-2156894098ff}:CleanArchitecture.Domain
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\cleanarchitecture.domain.csproj
+++Common
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\common\
+++Actor.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\actor.cs
+++Class1.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\class1.cs
+++Director.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\director.cs
+++Streamer.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\streamer.cs
+++Video.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\video.cs
+++VideoActor.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\videoactor.cs
+++BaseDomainModel.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\common\basedomainmodel.cs
+++ValueObject.cs
+i:{0431ebc1-f4ed-4ed8-9edd-361a5db3f459}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.domain\common\valueobject.cs
+++Behaviours
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\behaviours\
+++Constants
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\constants\
+++CustomClaimTypes.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\constants\customclaimtypes.cs
+++Contracts
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\
+++Identity
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\identity\
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\
+++IAuthService.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\identity\iauthservice.cs
+++Exceptions
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\exceptions\
+++Features
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\
+++Mappings
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\mappings\
+++AuthRequest.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\authrequest.cs
+++AuthResponse.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\authresponse.cs
+++JwtSettings.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\jwtsettings.cs
+++RegistrationRequest.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\registrationrequest.cs
+++RegistrationResponse.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\identity\registrationresponse.cs
+++Email.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\email.cs
+++EmailSettings.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\models\emailsettings.cs
+++ApplicationServiceRegistration.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\applicationserviceregistration.cs
+++UnhandledExceptionBehaviour.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\behaviours\unhandledexceptionbehaviour.cs
+++ValidationBehaviours.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\behaviours\validationbehaviours.cs
+++IEmailService.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\infrastructure\iemailservice.cs
+++IAsyncRepository.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\persistence\iasyncrepository.cs
+++IStreamerRepository.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\persistence\istreamerrepository.cs
+++IVideoRepository.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\contracts\persistence\ivideorepository.cs
+++NotFoundException.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\exceptions\notfoundexception.cs
+++ValidationException.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\exceptions\validationexception.cs
+++Streamers
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\
+++Videos
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\
+++MappingProfile.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\mappings\mappingprofile.cs
+++AutoMapper (11.0.1)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>779
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>775
+++FluentValidation (10.3.6)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>777
+++FluentValidation.DependencyInjectionExtensions (10.3.6)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>773
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>781
+++Microsoft.Extensions.Logging.Abstractions (6.0.1)
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:>771
+++Commands
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\
+++Queries
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\queries\
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\queries\
+++CreateStreamer
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\createstreamer\
+++DeleteStreamer
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\deletestreamer\
+++UpdateStreamer
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\updatestreamer\
+++CreateStreamerCommand.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\createstreamer\createstreamercommand.cs
+++CreateStreamerCommandHandler.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\createstreamer\createstreamercommandhandler.cs
+++CreateStreamerCommandValidator.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\createstreamer\createstreamercommandvalidator.cs
+++DeleteStreamerCommand.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\deletestreamer\deletestreamercommand.cs
+++DeleteStreamerCommandHandler.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\deletestreamer\deletestreamercommandhandler.cs
+++UpdateStreamerCommand.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\updatestreamer\updatestreamercommand.cs
+++UpdateStreamerCommandHandler.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\updatestreamer\updatestreamercommandhandler.cs
+++UpdateStreamerCommandValidator.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\streamers\commands\updatestreamer\updatestreamercommandvalidator.cs
+++GetVideosList
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\queries\getvideoslist\
+++GetVideosListQuery.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\queries\getvideoslist\getvideoslistquery.cs
+++GetVideosListQueryHandler.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\queries\getvideoslist\getvideoslistqueryhandler.cs
+++VideosVm.cs
+i:{ebd24b17-c8ce-4a86-ae32-47df709a686a}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.application\features\videos\commands\queries\getvideoslist\videosvm.cs
+++20220411172719_GenerateTables.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\migrations\20220411172719_generatetables.cs
+++CleanArchitectureIdentityDbContextModelSnapshot.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\migrations\cleanarchitectureidentitydbcontextmodelsnapshot.cs
+++20220411172719_GenerateTables.Designer.cs
+i:{9fd2fc67-469c-4110-a80b-bb6f544f8faa}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.identity\migrations\20220411172719_generatetables.designer.cs
+++AccountController.cs
+i:{00473395-1f67-4657-a9ae-efe562db54b7}:c:\proyectos\cleanarchitecture\cleanarchitecture\cleanarchitecture.api\controllers\accountcontroller.cs
