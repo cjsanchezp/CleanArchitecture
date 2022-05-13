@@ -11,13 +11,13 @@ namespace CleanArchitecture.Identity.Configurations
             builder.HasData(
                 new IdentityRole
                 {
-                    Id = "00aede9b-4662-49cf-9446-b7ff16580d24",
+                    Id = "df438e27-5390-4aae-90ac-a05567ab3546",
                     Name = "Administrator",
                     NormalizedName = "ADMINISTRATOR"
                 },
                 new IdentityRole
                 {
-                    Id = "6c5ecca1-b005-4b39-9a78-3e9859e1b3cb",
+                    Id = "b089e28a-51f5-4880-a6a4-dbdec42cdbfb",
                     Name = "Operator",
                     NormalizedName = "OPERATOR"
                 }

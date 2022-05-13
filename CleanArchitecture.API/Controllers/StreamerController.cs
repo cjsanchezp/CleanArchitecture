@@ -12,7 +12,7 @@ namespace CleanArchitecture.API.Controllers
     [Route("api/v1/[controller]")]
     public class StreamerController : ControllerBase
     {
-        private IMediator _mediator;
+        private readonly IMediator _mediator;
 
         public StreamerController(IMediator mediator)
         {

@@ -13,7 +13,7 @@ C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debu
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
-C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
 C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
-C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Proyectos\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll

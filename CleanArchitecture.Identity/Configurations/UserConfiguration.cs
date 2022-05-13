@@ -13,7 +13,7 @@ namespace CleanArchitecture.Identity.Configurations
             builder.HasData(
                 new ApplicationUser
                 {
-                    Id = "2b45040d-8715-403d-bc5b-ddb632ce88cc",
+                    Id = "d55811f3-0315-4963-9f00-cd2c71b469a3",
                     Email = "admin@localhost.com",
                     NormalizedEmail = "admin@localhost.com",
                     Nombre = "Cristian",
@@ -25,7 +25,7 @@ namespace CleanArchitecture.Identity.Configurations
                 },
                 new ApplicationUser
                 {
-                    Id = "b6d4ffbd-7833-4ec0-88dc-36f4f32e8ee3",
+                    Id = "5e292491-e6c3-47a3-93bd-1bdfef43166c",
                     Email = "juanperez@localhost.com",
                     NormalizedEmail = "juanperez@localhost.com",
                     Nombre = "Juan",
@@ -35,7 +35,6 @@ namespace CleanArchitecture.Identity.Configurations
                     PasswordHash = hasher.HashPassword(null, "Crisape2025$"),
                     EmailConfirmed = true,
                 }
-
                 );
         }
     }

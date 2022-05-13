@@ -22,6 +22,7 @@ namespace CleanArchitecture.Identity.Services
             _userManager = userManager;
             _signInManager = signInManager;
             _jwtSettings = jwtSettings.Value;
+            
         }
 
         public async Task<AuthResponse> Login(AuthRequest request)
@@ -110,6 +111,7 @@ namespace CleanArchitecture.Identity.Services
                 new Claim(CustomClaimTypes.Uid, user.Id)
             }.Union(userClaims).Union(roleClaims);
 
+            //creacion de llave de seguridad
             var symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.Key));
             var signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256);
 
